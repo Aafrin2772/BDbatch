@@ -9,4 +9,9 @@ public class EmployeeDetails {
     private void empAge() {
 		System.out.println("Emp age :42");
 	}
+    
+    private void empLoc() {
+		System.out.println("Emp loc: trichy");
+	}
+    
 }
