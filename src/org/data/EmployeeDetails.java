@@ -12,6 +12,18 @@ public class EmployeeDetails {
     
     private void empLoc() {
 		System.out.println("Emp loc: trichy");
+
 	}
+    
+    public static void main(String[] args) {
+		
+    	EmployeeDetails e = new EmployeeDetails();
+    	
+    	e.empName();
+    	e.empAge();
+    	e.empLoc();
+	}
+    
+    
     
 }
