@@ -19,4 +19,15 @@ public class EmployeeDetails {
 
     }
     
+    public static void main(String[] args) {
+		
+    	EmployeeDetails e = new EmployeeDetails();
+    	
+    	e.empName();
+    	e.empAge();
+    	e.empLoc();
+	}
+    
+    
+    
 }
