@@ -14,6 +14,10 @@ public class EmployeeDetails {
 		System.out.println("Emp loc: trichy");
 
 	}
+    private void empId() {
+		System.out.println("Emp id:12345");
+
+    }
     
     public static void main(String[] args) {
 		
